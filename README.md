@@ -19,7 +19,7 @@ pip install pybiopac
 Or install the development version from GitHub:
 
 ```bash
-pip install git+https://github.com/jplamas/pybiopac
+pip install git+https://github.com/joaolamas/pybiopac
 ```
 
 ## Usage
@@ -48,4 +48,4 @@ Pull requests are welcome!
 
 ## Contributors
 
-- João Lamas ([jlamas](https://github.com/jplamas))
+- João Lamas ([jlamas](https://github.com/joaolamas))

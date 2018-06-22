@@ -15,7 +15,7 @@ setuptools.setup(
     description="pybiopac example",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jplamas/pybiopac",
+    url="https://github.com/joaolamas/pybiopac",
     packages=setuptools.find_packages(),
     classifiers=(
         'Programming Language :: Python :: 3',
