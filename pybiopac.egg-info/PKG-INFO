@@ -1,0 +1,72 @@
+Metadata-Version: 2.1
+Name: pybiopac
+Version: 0.0.1
+Summary: pybiopac example
+Home-page: https://github.com/jplamas/pybiopac
+Author: João Lamas
+Author-email: lamas.jp@gmail.com
+License: UNKNOWN
+Description: # pybiopac
+        
+        
+        [pybiopac](https://github.com/joaolamas/pybiopac)
+        for Python.
+        
+        `pybiopac` is compatible with Python 3.
+        
+        <!-- TOC -->
+        
+        ## Installation
+        
+        # Todo
+        
+        ```bash
+        pip install pybiopac
+        ```
+        
+        Or install the development version from GitHub:
+        
+        ```bash
+        pip install git+https://github.com/jplamas/pybiopac
+        ```
+        
+        ## Usage
+        
+        ```python
+        >>> import pybiopac as b
+        >>> b.pybiopac()
+        
+        ```
+        
+        ## Documentation
+        
+        You can [read the documentation online](https://www.biopac.com/wp-content/uploads/AcqKnowledge-5-Software-Guide.pdf).
+        Chapter 21. Page 482 to 495
+        
+        
+        ## Functions and examples
+        
+        ### Connection
+        
+        Todo
+        
+        ### Test in while loop data reading
+        
+        Pull requests are welcome!
+        
+        ## Contributors
+        
+        - JoÃ£o Lamas ([jlamas](https://github.com/jplamas))
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Unix
+Classifier: Operating System :: WindowsTopic :: Education
+Classifier: Topic :: Research
+Description-Content-Type: text/markdown

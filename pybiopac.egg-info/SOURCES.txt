@@ -1,0 +1,9 @@
+README.md
+setup.py
+pybiopac/__init__.py
+pybiopac/example.py
+pybiopac/pybiopac.py
+pybiopac.egg-info/PKG-INFO
+pybiopac.egg-info/SOURCES.txt
+pybiopac.egg-info/dependency_links.txt
+pybiopac.egg-info/top_level.txt
